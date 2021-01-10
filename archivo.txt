@@ -1,2 +1,4 @@
 hola Primer archivo para git.
 modificado para realizar el segundo commit de la vida.
+
+estamos practicando commit .
